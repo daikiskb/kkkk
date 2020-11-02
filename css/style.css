@@ -52,11 +52,12 @@ header{
   color:white;
   font-size: 20px;
   font-weight: 900;
-  background-color:#CCCC66;
   width:300px;
   height: 80px;
   border-radius:5px;
-  text-shadow: 5px;
+  background: -moz-linear-gradient(top,#c0d85b, #99af41);
+  background: -webkit-linear-gradient(top,#c0d85b, #99af41);
+  background: linear-gradient(to bottom, #c0d85b, #99af41);
 }
 
 div.background-image img{

@@ -324,6 +324,9 @@ div.background-image h1{
     width: max-content;
     padding: 0;
     margin: 0;
+    margin-top:10px;
+    margin-left: 10px;
+    margin-right: 10px;
 
   }
 
@@ -348,14 +351,14 @@ div.background-image h1{
 
   .request img{
     height: 40px;
-    width: 190px;
+    width: 160px;
 
   }
 
   .request p{
     color:#C16C9D;
     font-weight: bold;
-    font-size:20px;
+    font-size:12px;
     padding:0px;
     margin:3px;
     margin-bottom: 15px;
@@ -363,10 +366,10 @@ div.background-image h1{
 
   .request button{
     color:white;
-    font-size: 20px;
+    font-size: 12px;
     font-weight: 900;
-    width:400px;
-    height: 70px;
+    width:180px;
+    height: 50px;
     border-radius:5px;
     background: -moz-linear-gradient(top,#c0d85b, #99af41);
     background: -webkit-linear-gradient(top,#c0d85b, #99af41);
@@ -375,9 +378,10 @@ div.background-image h1{
 
   .question{
       width: 640px;
-      height: 600px;
+      height: 695px;
       margin-top:50px;
       margin-right:20px;
+      margin-left: 35px;
       padding:15px;
       border:solid 1px black;
       background-color: white;
@@ -392,8 +396,8 @@ div.background-image h1{
   }
 
   .question img{
-    padding-left: 150px;
-    height: 80px
+    padding-left: 75px;
+    height: 65px
   }
 
   .question h3{
@@ -410,13 +414,13 @@ div.background-image h1{
   }
 
   .question button{
-    margin-left:110px;
-    color:white;
-    font-size: 20px;
+    color: white;
+    font-size: 12px;
     font-weight: 900;
-    width:400px;
-    height: 70px;
-    border-radius:5px;
+    width: 180px;
+    height: 50px;
+    border-radius: 5px;
+    margin-left: 135px;
     background: -moz-linear-gradient(top,#c0d85b, #99af41);
     background: -webkit-linear-gradient(top,#c0d85b, #99af41);
     background: linear-gradient(to bottom, #c0d85b, #99af41);
@@ -426,6 +430,7 @@ div.background-image h1{
     width: 250px;
     height: 350px;
     margin-top:50px;
+    margin-right: 35px;
     padding:15px;
     border:solid 1px black;
     background-color: white;
